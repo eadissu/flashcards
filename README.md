@@ -25,10 +25,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<img src='[https://i.imgur.com/IR90sn7.mp4](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNkcGs0d3F4aW83NWsxeHQ5bXJzcG12bWIzeWUxN2lubmV1a3o3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pkxsDQjvYaJ8C5o0ef/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNkcGs0d3F4aW83NWsxeHQ5bXJzcG12bWIzeWUxN2lubmV1a3o3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pkxsDQjvYaJ8C5o0ef/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Giphy 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
